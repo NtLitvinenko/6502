@@ -1,2 +1,4 @@
 # 6502
-MOS AD6502 project. Look for help for this project :)
+My project for MOS 6502. <br>
+Commenting code for you, learning with you. <br>
+Looking for help too :) <br>
